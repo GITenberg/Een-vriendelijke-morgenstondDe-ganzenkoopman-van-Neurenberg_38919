@@ -1,0 +1,40 @@
+_repo: Een-vriendelijke-morgenstondDe-ganzenkoopman-van-Neurenberg_38919
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bok, J. H.
+    gutenberg_agent_id: '39714'
+    url: http://www.gutenberg.org/2009/agents/39714
+covers:
+- cover_type: archival
+  image_path: 38919-h/images/cover-th.jpg
+creator:
+  authors:
+  - agent_name: Lohr, F.
+    gutenberg_agent_id: '39713'
+    url: http://www.gutenberg.org/2009/agents/39713
+  - agent_name: Nieritz, Gustav
+    aliases:
+    - Nieritz, G. (Gustav)
+    - Nieritz, Gustave
+    - Nieritz, Karl Gustav
+    birthdate: 1795
+    deathdate: 1876
+    gutenberg_agent_id: '32176'
+    url: http://www.gutenberg.org/2009/agents/32176
+    wikipedia: http://de.wikipedia.org/wiki/Karl_Gustav_Nieritz
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38919'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+- !lcc 'PZ'
+title: Een vriendelijke morgenstond; De ganzenkoopman van Neurenberg
+url: http://www.gutenberg.org/ebooks/38919
